@@ -5,7 +5,7 @@
 • Junto com arquivos tem um PDF da atividade pedida <b>(Exercicio_Heranca2.pdf)</b></br>
 • Aqui temos vários arquivos .cs C#</br>
 • Conteúdo feito na aula de <b>Desenvolvimento de Sistemas</b></br>
-• Ministrado pelo  Professor <b>ELISANDRA CRISTINA DE RAMOS SILVA</b></br>
+• Ministrado pelo  Professora <b>ELISANDRA CRISTINA DE RAMOS SILVA</b></br>
 
 <h3> Caso queira fazer Download </h3>
 
